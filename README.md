@@ -1,1 +1,1 @@
-# smart-contracts
+# Basic's smart-contracts
